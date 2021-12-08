@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title>
+class b
+</tittle>
+</head>
+<body>
+<table border="3">
+	<th rowspan="2">SL.NO</th>
+	<th>Register No.</th>
+	<th>Name<th>
+	<tr>
+		<td>1.</td>
+		<td>a.</td>
+		<td>18ECR179</td>
+		<td>Santhosh E</td>
+	<tr>
+</table>
+</body>
+</html>
+
+
